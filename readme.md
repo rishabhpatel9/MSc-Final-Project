@@ -4,8 +4,6 @@ Project dependencies:
 
 * tensorflow
 * opencv
-
 * imghdr
 * numpy
-
 * matplotlib
