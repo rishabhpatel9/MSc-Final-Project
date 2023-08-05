@@ -7,3 +7,4 @@ Project dependencies:
 * imghdr
 * numpy
 * matplotlib
+* aif360
