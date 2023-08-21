@@ -1,0 +1,8 @@
+notebook
+numpy
+pandas
+scikit-learn
+python-git
+tensorflow-gpu
+opencv-python
+matplotlib
